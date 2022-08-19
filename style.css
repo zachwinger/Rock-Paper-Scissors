@@ -1,0 +1,27 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: lightblue;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+h2{
+    margin: 0px;
+}
+
+.resultText{
+    text-align: center;
+}
+
+button{
+    background-color: lightgray;
+    border-radius: 6px;
+    height: 50px;
+    width: 100px;
+}
